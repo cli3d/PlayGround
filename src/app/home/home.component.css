@@ -1,0 +1,54 @@
+.container{
+    padding: 10px;
+    margin: 15px;
+    height:auto;
+    border:1px solid red;
+   }
+ 
+.flex-container{
+    height: unset;
+   }  
+   
+
+.child-1{
+    border-radius: 5px;
+    background-color: orange;
+    }
+.child-2{
+    border-radius: 5px;
+    background-color: yellow;
+    }
+.child-3{
+        border-radius: 5px;
+        background-color: green;
+    }
+    
+.child-4{
+    border-radius: 5px;
+    background-color: blue;
+}
+    
+.child-5{
+    border-radius: 5px;
+    background-color: pink;
+}
+.child-6{
+    border-radius: 5px;
+    background-color: red;
+}
+.child-7{
+    border-radius: 5px;
+    background-color: maroon;
+}
+.child-8{
+    border-radius: 5px;
+    background-color: blue;
+}
+.example-card {
+    /* max-width: 400px; */
+    color: seagreen;
+  }
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
